@@ -1,0 +1,1 @@
+document.evaluate("//button[@aria-label='Highlight']", document.body, null, 9, null).singleNodeValue.click();
